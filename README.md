@@ -1,10 +1,10 @@
 <html>
  <head>
-  <title>My Page Title</title>
+  <title>Mirza</title>
  </head>
  <body>
 
-  This is where all my web page content goes!
+  Comming soon!
 
  </body>
 </html>
